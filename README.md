@@ -1,2 +1,4 @@
 # midashi
-hello.my name is sanchan.
+見出しです。
+## komidashi
+小見出しです。
